@@ -1,0 +1,18 @@
+{
+    "files.exclude": {
+        ".dart_tool": true,
+        ".packages": true,
+        ".idea": true,
+        ".metadata": true,
+        "android": true,
+        "build": true,
+        "ios": true,
+        "pubspec.lock": true,
+        "canvas_poc.iml": true,
+        "README.md": true,
+        "**/*.config.dart": true,
+        "**/*.g.dart": true,
+        ".flutter-plugins*": true,
+        "debug.log": true
+    }
+}
